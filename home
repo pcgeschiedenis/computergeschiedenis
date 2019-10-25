@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="nl">
+<video autoplay muted loop id="myVideo">
+  <source src="rain.mp4" type="video/mp4">
+</video>
+
+<div class="content">
+  <h1>Menu</h1>
+  <p><nav>
+  <ul>
+   <li><a href="site.html">Home</a></li>
+    <li><a href="mech.html">Mechanische computers</a></li>
+    <li><a href="elek.html">Elektronische computers</a></li>
+    <li><a href="mob.html">Mobiele apparaten</a></li>
+  </ul>
+</nav></p>
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br />
+<header> Links naar sites voor meer informatie:</header>
+<div id=link>
+<p><a href="https://nl.wikipedia.org/wiki/Geschiedenis_van_de_computer">Wikipedia</a><br />
+<a href="https://www.pclooptvast.nl/de-geschiedenis-van-de-computer-en-het-ontstaan/">Pclooptvast.nl</a><br />
+<a href="https://anderetijden.nl/aflevering/508/De-PC-revolutie">Anderetijden.nl</a><br />
+
+</div>
+
+</div>
+
+
+<body>
+
+<head>
+	<title>De Geschiedenis van de Computer</title>
+	<link rel="stylesheet" type="text/css" href="./site.css" />
+
+</head>
+<div id="first">
+	<header>De Geschiedenis van de Computer</header>
+</div>
+
+<header id=random>
+<br><br><br><br><br><br><br><br><br>
+De geschiedenis van de computer begint met de geschiedenis van het rekenen. Vanouds hebben mensen hulpmiddelen ontwikkeld voor berekeningen die niet gemakkelijk uit het hoofd gemaakt konden worden. De eenvoudigste manier is het noteren van een aantal getallen en te proberen deze correct op te tellen. Ook werd wel een kerfstok gebruikt, om de schulden van een persoon vast te leggen. Daarna werd het telraam (abacus) uitgevonden. Toen de behoefte aan berekeningen steeds complexer werd, ontwikkelde men tabellen met hulpgegevens (bijvoorbeeld logaritmetabellen als hulp bij het vermenigvuldigen). Ook de rekenliniaal was een uitvinding om vermenigvuldigen en delen met een beperkte nauwkeurigheid makkelijk te maken. De rekenliniaal is in de loop van de jaren zeventig echter verdwenen met de uitvinding van de zakrekenmachine.
+
+In het Verenigd Koninkrijk waren in verband met de koloniale scheepvaart veel centra met menselijke computers ontstaan. Deze maakten tabellen voor navigatiedoeleinden (plaatsbepalingen op zee). Ook in andere gebieden vonden deze tabellen gretig aftrek, zoals de astronomie. Charles Babbage, een wiskundige, was erg geïnteresseerd in de astronomie. Een grote kwelling voor een astronoom was echter het feit dat in iedere tabel onvermijdelijk fouten zaten. Babbage vroeg zich af of de tabellen niet machinaal gegenereerd konden worden. Hiervoor bedacht hij in 1822 de differentiemachine: een concept voor een machine die tabellen van veeltermen kon uitschrijven. Babbage begon aan de bouw van de machine, maar het bouwen ervan viel niet mee. De machine werkte mechanisch en de tandwieltechniek was nog niet geavanceerd genoeg om tot een goed resultaat te komen. Verder veranderde Babbage steeds het ontwerp van de machine.
+
+Aldus kwam hij in 1833 met de "analytische machine". Deze machine zou met invoer vanaf ponskaarten wiskundige bewerkingen kunnen uitvoeren. Deze machine wordt algemeen gezien als het concept van de computer. Tot dan toe bestond de machine alleen nog maar op papier en Babbage ging op zoek naar iemand om zijn ideeën te verwezenlijken. Daarvoor vond hij Ada Augusta (Lady Lovelace), een enthousiast amateurwiskundige. Ada schreef hele reeksen instructies voor de analytische machine, ze ontwikkelde onder andere de subroutine, herkende de waarde van lussen en dacht al na over de voorwaardelijke sprongroutine; zij was dus eigenlijk de eerste programmeur. Helaas heeft Babbage ook deze machine nooit kunnen voltooien.
+
+Eind 19e eeuw construeerde Herman Hollerith telmachines die werkten op basis van invoer met ponskaarten. Aan de telmachines werden sorteermachines verbonden, eenvoudige bewerkingen op bestanden met grote hoeveelheden gegevens werden zo mogelijk gemaakt.
+
+Pas in 1938 werd de eerste computer gebouwd door Konrad Zuse. Ook Zuses machine werkte nog mechanisch, maar Zuse had het zichzelf een stuk eenvoudiger gemaakt door van het binaire stelsel gebruik te maken. Een jaar later bouwde Zuse de eerste elektromechanische computer.
+
+
+</header>
+
+<div id=fotos1>
+		<img id=foto2 src="image/Knipsel.PNG" />
+</div>
+
+<span class="blinking">
+<footer id="voetzool">
+&copy Hanno Webdisign
+</footer>
+</span>
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
